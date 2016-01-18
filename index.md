@@ -1,9 +1,9 @@
 ---
 layout: home
 excerpt: "Computer Science student blog, here you will find what i'm learning from my studies day by day."
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Jekyll, Computer Science, informatics, blog, tech, developer, programmer]
 image:
   feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: leahbarclay
+  creditlink: http://leahbarclay.com/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Computer Science student blog, here you will find what i'm learning from my studies day by day."
+tags: [Jekyll, Computer Science, informatics, blog, tech, developer]
 image:
   feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: leahbarclay
+  creditlink: http://leahbarclay.com/
 ---
