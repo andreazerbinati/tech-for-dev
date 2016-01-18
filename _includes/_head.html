@@ -55,10 +55,10 @@
     <script>
     $(function(){
       var freqSecs = 2.0;
-      setInterval(RepeatCall, freqSecs*200);
+      setInterval(RepeatCall, freqSecs*20);
 
       function RepeatCall(){
-        var inout = (freqSecs*200)/2;
+        var inout = (freqSecs*20)/2;
 
         $(".blink").fadeIn(inout).fadeOut(inout)
       }
