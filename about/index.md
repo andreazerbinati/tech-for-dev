@@ -12,7 +12,7 @@ image:
 Thank you for stopping by!
 As you surely have just noticed, looking at the giant banner above, this is a blog about Computer Science, viewed not from the perspective of an expert but of a student.   
 I will try to explain some concepts of informatics that I learned during my studies at University, talking about technologies and tools that I've used in my projects.   
-I hope you'll enjoy! As much as I do in my learning process. 
+I hope you'll enjoy reading this blog as much as I do studying computer science stuff. 
 
 
 <!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a> -->
