@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Computer Science student blog, here you will find what i'm learning from my studies day by day."
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: sample-image-1.jpg
